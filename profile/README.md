@@ -12,14 +12,10 @@
 - 2024.04.01 ~ 2024.11.08
   
 #### In Progress
-- **[FastCampus]** Machine Learning
-   
-#### Upcoming
-- **[FastCampus]** Machine Learning Project
-- **[Upstage]** Deep Learning
-- **[Upstage]** Pytorch
 - **[Upstage]** Machine Learning Basic/Advanced
 - **[Upstage]** Machine Learning Regression Competition
+   
+#### Upcoming
 - **[Upstage]** Computer Vision Basic/Advanced
 - **[Upstage]** CV Image Classification Competiton
 - **[Upstage]** Computer Vision Generation
@@ -39,7 +35,11 @@
 - **[FastCampus]** Statistic
 - **[FastCampus]** Python EDA
 - **[FastCampus]** Python EDA Project
-
+- **[FastCampus]** Machine Learning
+- **[FastCampus]** Machine Learning Project
+- **[Upstage]** Deep Learning
+- **[Upstage]** Pytorch
+- 
 ### 🎇 Appendix
 - 🙌 [Upstage AI Lab Introduction Page](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)
 - ✉️ Connection : help.edu@fastcampus.co.kr
