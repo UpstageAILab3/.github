@@ -12,11 +12,9 @@
 - 2024.04.01 ~ 2024.11.08
   
 #### In Progress
-- **[Upstage]** Computer Vision Basic/Advanced
-   
-#### Upcoming
-- **[Upstage]** CV Image Classification Competiton
 - **[Upstage]** Computer Vision Generation
+
+#### Upcoming
 - **[Upstage]** Natural Language Processing Advanced
 - **[Upstage]** NLP Dialogue Summarization Competition
 - **[Upstage]** Natural Language Processing LM TO LLM
@@ -39,6 +37,8 @@
 - **[Upstage]** Pytorch
 - **[Upstage]** Machine Learning Basic/Advanced
 - **[Upstage]** Machine Learning Regression Competition
+- **[Upstage]** Computer Vision Basic/Advanced
+- **[Upstage]** CV Image Classification Competiton
   
 ### 🎇 Appendix
 - 🙌 [Upstage AI Lab Introduction Page](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)
