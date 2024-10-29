@@ -12,12 +12,6 @@
 - 2024.04.01 ~ 2024.11.08
   
 #### In Progress
-- **[Upstage]** OCR Detector Competition
-- **[Upstage]** Information Retrieval Competition
-- **[Upstage]** Recommender System Competition
-- **[Upstage]** Anomaly Detection Competition
-
-#### Upcoming
 - **[FastCampus]** 1 on 1 Career Service
 
 #### Done
@@ -39,7 +33,11 @@
 - **[Upstage]** NLP Dialogue Summarization Competition
 - **[Upstage]** Natural Language Processing LM TO LLM
 - **[Upstage]** AI Advanced : Data Centric AI
-  
+- **[Upstage]** OCR Detector Competition
+- **[Upstage]** Information Retrieval Competition
+- **[Upstage]** Recommender System Competition
+- **[Upstage]** Anomaly Detection Competition
+    
 ### 🎇 Appendix
 - 🙌 [Upstage AI Lab Introduction Page](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)
 - ✉️ Connection : help.edu@fastcampus.co.kr
